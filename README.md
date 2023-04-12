@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 My ![Visitor Count](https://profile-counter.glitch.me/jjyaoao/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm jjyaoao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **My interest**
 - 🌱 I’m currently learning **NLP**
