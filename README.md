@@ -17,11 +17,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/jjyaoao/count.svg) visitor
 - 🔭 I’m currently working on **My interest**
 - 🌱 I’m currently learning **NLP**
 - 👯 Currently working in **Chengdu, China**
-- 🤔 I love **Reading, photography**
+- 🤔 I love **open Source, enjoy Everything**
 - 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **wf18684531169@gmail.com**
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
-- ⚡ Fun fact: **LOL, Movie**
+- 📫 How to reach me: **jjyaoao@126.com**
+- 😄 You may like [My Website](http://jjyaoao.space/),[Blog](https://juejin.cn/user/13648712705416)
+- ⚡ Fun fact: **Music, Movie**
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjyaoao)](https://github.com/jjyaoao/github-readme-stats)
