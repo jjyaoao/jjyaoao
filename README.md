@@ -15,7 +15,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/jjyaoao/count.svg) visitor
 
 
 # I'm jjyaoao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
+<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mumuy&show_icons=true&count_private=false&theme=vue-dark" /></a>
 - 🔭 I’m currently working on **My interest**
 - 🌱 I’m currently learning **NLP**
 - 👯 Currently working in **Chengdu, China**
