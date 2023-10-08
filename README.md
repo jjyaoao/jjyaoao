@@ -2,7 +2,7 @@
 
 <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jjyaoao&show_icons=true&theme=tokyonight" /></a>
 - 🔭 I’m currently working on **My interest**
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **LLM agent**
 - 👯 Currently working in **Chengdu, China**
 - 🤔 I love **open Source, enjoy Everything**
 - 💬 Ask me about Deep Learning, Python and my projects
