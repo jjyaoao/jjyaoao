@@ -10,7 +10,7 @@
 - 😄 You may like [My Website](xxxx),[Blog](https://juejin.cn/user/13648712705416)
 - ⚡ Fun fact: **Music, Movie**
 
-My ![Visitor Count](https://komarev.com/ghpvc/?username=jjyaoao&style=flat-square&color=blue) visitor
+My&nbsp;<img src="https://komarev.com/ghpvc/?username=jjyaoao&style=flat-square&color=blue" alt="Visitor Count" style="vertical-align:middle;"/>&nbsp;visitor
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
