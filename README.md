@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning **LLM agent**
 - 👯 Currently working in **Chengdu, China**
 - 🤔 I love **open Source, enjoy Everything**
-- 💬 Ask me about Deep Learning, Python and my projects
+- 💬 Ask me about LLM Agent and my projects
 - 📫 How to reach me: **jjyaoao@126.com**
 - 😄 You may like [My Website](xxxx),[Blog](https://juejin.cn/user/13648712705416)
 - ⚡ Fun fact: **Music, Movie**
 
-My ![Visitor Count](https://profile-counter.glitch.me/jjyaoao/count.svg) visitor
+My ![Visitor Count](https://komarev.com/ghpvc/?username=jjyaoao&style=flat-square&color=blue) visitor
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
