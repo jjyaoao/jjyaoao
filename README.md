@@ -9,8 +9,7 @@
 - 📫 How to reach me: **jjyaoao@126.com**
 - 😄 You may like [My Website](xxxx),[Blog](https://juejin.cn/user/13648712705416)
 - ⚡ Fun fact: **Music, Movie**
-
-My&nbsp;<img src="https://komarev.com/ghpvc/?username=jjyaoao&style=flat-square&color=blue" alt="Visitor Count" style="vertical-align:middle;"/>&nbsp;visitor
+- [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/KMnO4-zx)
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
