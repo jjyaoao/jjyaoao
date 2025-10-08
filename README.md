@@ -9,7 +9,7 @@
 - 📫 How to reach me: **jjyaoao@126.com**
 - 😄 You may like [My Website](xxxx),[Blog](https://juejin.cn/user/13648712705416)
 - ⚡ Fun fact: **Music, Movie**
-- [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/KMnO4-zx)
+- <a href="https://www.xiaohongshu.com/user/profile/67b9cc34000000000e013517" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a> [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/KMnO4-zx)
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
