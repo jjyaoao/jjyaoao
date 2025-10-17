@@ -6,7 +6,7 @@
 - 🤔 I love **open Source, enjoy Everything**
 - 💬 Ask me about LLM Agent and my projects
 - 📫 How to reach me: **jjyaoao@126.com**
-- 😄 Seeking PhD for 2027 Spring or internship opportunities for 2026.
+- 😄 Seeking PhD for 2027 Spring or internship opportunities for 2026
 - ⚡ Fun fact: **Music, Movie**
 - [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/KMnO4-zx)
 
