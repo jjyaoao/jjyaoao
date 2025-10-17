@@ -3,11 +3,10 @@
 <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jjyaoao&show_icons=true&theme=tokyonight" /></a>
 - 🌱 I’m currently learning **LLM agent**
 - 👯 Currently working in **Chengdu, China**
-- 🤔 I love **open Source, enjoy Everything**
+- 🤔 I love **Open Source, enjoy Everything**
 - 💬 Ask me about LLM Agent and my projects
 - 📫 How to reach me: **jjyaoao@126.com**
 - 😄 Seeking PhD for 2027 Spring or internship opportunities for 2026
-- ⚡ Fun fact: **Music, Movie**
 - [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/KMnO4-zx)
 
 <div align="center">
