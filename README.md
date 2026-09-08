@@ -5,11 +5,11 @@
 </a>
 
 - 🌱 I’m currently learning **LLM agent**
-- 👯 Currently working in **Chengdu, China**
+- 👯 Currently working in **Hangzhou, China**
 - 🤔 I love **Open Source, enjoy Everything**
 - 💬 Ask me about LLM Agent and my projects
 - 📫 How to reach me: **jjyaoao@126.com**
-- 😄 Seeking PHD for 2027 Spring or internship opportunities for 2026
+- 😄 Always happy to connect and chat!
 - [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/jjyaoao) <a href="https://www.xiaohongshu.com/user/profile/67b9cc34000000000e013517" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
 
 <div align="center">
