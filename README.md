@@ -11,6 +11,7 @@
 - 📫 How to reach me: **jjyaoao@126.com**
 - 😄 Always happy to connect and chat!
 - [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjyaoao.jjyaoao)](https://github.com/jjyaoao) <a href="https://www.xiaohongshu.com/user/profile/67b9cc34000000000e013517" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
+- <a href="https://trendshift.io/developers/13200?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-13200" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/13200" alt="jjyaoao | Trendshift" width="250" height="55"/></a>
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
